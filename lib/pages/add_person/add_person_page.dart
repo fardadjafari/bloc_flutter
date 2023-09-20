@@ -2,9 +2,9 @@ import 'package:flutter/material.dart';
 
 import 'widget/body.dart';
 
-class HomePage extends StatelessWidget {
-  const HomePage({super.key});
-  static const String screenId = "/welcom_page";
+class AddPersonPage extends StatelessWidget {
+  const AddPersonPage({super.key});
+  static const String screenId = "/add_person_page";
 
   @override
   Widget build(BuildContext context) {
